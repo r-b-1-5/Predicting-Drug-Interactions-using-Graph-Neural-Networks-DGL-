@@ -1,0 +1,1 @@
+This project aims at reading the drug interactions from Drugbank, and using the SMILES encoding of the drugs to create Node feature vectors. Graph Neural Network models are used to do predictions. 
